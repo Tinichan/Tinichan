@@ -27,7 +27,7 @@
 
 ## 📅 2020 Goals:
 - [x] <del>Protect [course project][project]</del> **Defended at 95/100**
-- [ ] Write my own website
+- [ ] Write my own website *(in process)*
 - [ ] To improve skills in HTML, CSS and Python
 - [ ] Learn JS, PHP and some kind of framework (Node.js / jQuery / Angular / React / Vue.js)
 <hr>
