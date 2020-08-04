@@ -12,7 +12,7 @@
 
 ### Some links:
 
-[<img align="center" alt="Spotify" width="120px" src="assets/images/mySpotify.jpeg" style="margin: 8px;"/>][spotify]
+[<img align="center" alt="Spotify" width="120px" src="https://github.com/Tinichan/Tinichan/blob/master/assets/images/mySpotify.jpeg" style="margin: 8px;"/>][spotify]
 
 ### 💾 Languages and tools:
 
