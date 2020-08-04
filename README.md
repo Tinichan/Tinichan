@@ -6,10 +6,15 @@
 - 📚 I usually write websites (HTML / CSS), but there is a desire to practice Python
 - ⚡ Some interesting facts about me:
   - 🥪 I love to cook
+  - 🎧 I mostly listen Retrowave and something from Cyberpunk
   - 🎮 I'm playing a little (usually play in [Warframe][game] ( <abbr title="My game nickname">\_BOSSKO_99</abbr> )
   - Bruh
 
-### Languages and tools:
+### Some links:
+
+[<img align="center" alt="Spotify" width="120px" src="assets/images/mySpotify.jpeg" style="margin: 8px;"/>][spotify]
+
+### 💾 Languages and tools:
 
 [<img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" style="margin: 8px;"/>](https://code.visualstudio.com/)
 
@@ -23,23 +28,29 @@
 
 <br>
 <br>
+<br>
 <hr>
 
 ## 📅 2020 Goals:
+
 - [x] <del>Protect [course project][project]</del> **Defended at 95/100**
-- [ ] Write my own website *(in process)*
+- [ ] Write my own website _(in process)_
 - [ ] To improve skills in HTML, CSS and Python
 - [ ] Learn JS, PHP and some kind of framework (Node.js / jQuery / Angular / React / Vue.js)
+
 <hr>
 
 ## 📊 Some statistics
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tinichan)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Tinichan&show_icons=true&theme=synthwave)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Tinichan&show_icons=true)
 
 <!--/////////////////////////////////-->
+
 [mygithub]: https://github.com/Tinichan
 [vscode]: https://code.visualstudio.com/
 [game]: https://www.warframe.com/
+[spotify]: https://open.spotify.com/user/2z68o3ril7kxltzxje509snjb?si=-DESlo4WTkufb0wz6XprtQ
 [project]: https://github.com/Tinichan/University-course-project-2020
+
 <!--/////////////////////////////////-->
