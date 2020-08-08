@@ -6,10 +6,10 @@
 - 📚 I usually write websites (HTML / CSS), but there is a desire to practice Python
 - 💻 Work on a [LATTE PANDA][currentpc] _(saving up for a laptop)_
 - ⚡ Some interesting facts about me:
-  - 🥪 I love to cook
+  - 🥪 I love to [cook][bruh]
   - 🎧 I mostly listen Retrowave and something from Cyberpunk
   - 🎮 I'm playing a little (usually play in [Warframe][game] ( <abbr title="My game nickname">\_BOSSKO_99</abbr> )
-  - Bruh
+  - [Bruh][bruh]
 
 ### 💾 Languages:
 
@@ -64,6 +64,8 @@
 
 <!--/////////////////////////////////-->
 
+[laugh]: https://youtu.be/wgzdb0txR_c?t=280
+[bruh]: https://www.youtube.com/watch?v=dQw4w9WgXcQ
 [mygithub]: https://github.com/Tinichan
 [vscode]: https://code.visualstudio.com/
 [currentpc]: http://www.lattepanda.com/products/3.html
