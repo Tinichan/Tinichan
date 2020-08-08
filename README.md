@@ -4,6 +4,7 @@
 
 - ⌨ I usually write code in [VS Code][vscode]
 - 📚 I usually write websites (HTML / CSS), but there is a desire to practice Python
+- 💻 Work on a [LATTE PANDA][currentpc] *(saving up for a laptop)*
 - ⚡ Some interesting facts about me:
   - 🥪 I love to cook
   - 🎧 I mostly listen Retrowave and something from Cyberpunk
@@ -49,6 +50,7 @@
 
 [mygithub]: https://github.com/Tinichan
 [vscode]: https://code.visualstudio.com/
+[currentpc]: http://www.lattepanda.com/products/3.html
 [game]: https://www.warframe.com/
 [spotify]: https://open.spotify.com/user/2z68o3ril7kxltzxje509snjb?si=-DESlo4WTkufb0wz6XprtQ
 [project]: https://github.com/Tinichan/University-course-project-2020
