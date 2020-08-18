@@ -2,8 +2,8 @@
 
 ## I'm a student, who _wanna_ be a nice programmer
 
-- ⌨ I usually write code in [VS Code][vscode]
-- 📚 I usually write websites (HTML / CSS), but there is a desire to practice Python
+- ⌨ I write code in [VS Code][vscode]
+- 📚 Usually writing websites (HTML, CSS & _JS_), but there is a desire to practice Python
 - 💻 Work on a [LATTE PANDA][currentpc] _(saving up for a laptop)_
 - ⚡ Some interesting facts about me:
   - 🥪 I love to [cook][laugh]
@@ -60,7 +60,7 @@
 ## 📅 2020 Goals:
 
 - [x] <del>Protect [course project][с_project]</del> **Defended at 95/100**
-- [ ] Write my own website _(in process)_
+- [ ] Write my own website _([in process][my_site])_
 - [ ] To improve skills in HTML, CSS and Python
 - [ ] Learn JS, PHP and some kind of framework (Node.js / jQuery / Angular / React / Vue.js)
 
@@ -84,6 +84,7 @@
 [currentpc]: http://www.lattepanda.com/products/3.html
 [game]: https://www.warframe.com/
 [с_project]: https://github.com/Tinichan/University-course-project-2020
+[my_site]: https://github.com/Tinichan/My-site
 [spotify]: https://open.spotify.com/user/2z68o3ril7kxltzxje509snjb?si=-DESlo4WTkufb0wz6XprtQ
 
 <!--/////////////////////////////////-->
