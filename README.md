@@ -1,17 +1,17 @@
-### Hi there, I'm Tim ([Tinichan][mygithub]) Gonch 👋
+### Hi there, I'm Tim ([Tinichan][mygithub]) Gonch. 👋
 
-## I'm a student, who _wanna_ be a nice programmer
+## I'm a student, who _wanna_ be a nice programmer.
 
-- ⌨ I write code in [VS Code][vscode]
-- 📚 Usually writing websites (HTML, CSS & _JS_), but there is a desire to practice Python
-- 💻 Work on a [LATTE PANDA][currentpc] _(saving up for a laptop)_
+- ⌨ I write code in [VS Code][vscode];
+- 📚 Usually writing websites (HTML, CSS & _JS_), but there is a desire to practice Python;
+- 💻 Work on a [LATTE PANDA][currentpc] _(saving up for a laptop)_;
 - ⚡ Some interesting facts about me:
-  - 🥪 I love to [cook][laugh]
-  - 🎧 I mostly listen Retrowave and something from Cyberpunk
-  - 🎮 I'm playing a little (usually play in [Warframe][game] (\_BOSSKO_99)
-  - [Bruh][bruh]
+  - 🥪 I love to [cook][laugh];
+  - 🎧 I mostly listen Retrowave and something from Cyberpunk;
+  - 🎮 I'm playing a little (usually play in [Warframe][game] (\_BOSSKO_99);
+  - [Bruh][bruh].
 
-### 💾 Languages:
+### 📚 Languages:
 <!--
 [<img align="left" alt="C++" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"/>](https://github.com/topics/cpp)
 [<img align="left" alt="SQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"/>](https://github.com/topics/sql)
@@ -57,12 +57,12 @@
 <br>
 <hr>
 
-## 📅 2020 Goals:
+## 🎯 2020 Goals:
 
-- [x] <del>Protect [course project][с_project]</del> **Defended at 95/100**
-- [ ] Write my own website _([in process][my_site])_
-- [ ] To improve skills in HTML, CSS and Python
-- [ ] Learn JS, PHP and some kind of framework (Node.js / jQuery / Angular / React / Vue.js)
+- [x] <del>Protect [course project][с_project];</del> **Defended at 95/100**
+- [ ] Write my own website _([in process][my_site])_;
+- [ ] To improve skills in HTML, CSS and Python;
+- [ ] Learn JavaScript, PHP and some kind of framework (Angular / Django / Flask / jQuery / React / Vue.js);
 
 <hr>
 
