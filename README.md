@@ -3,7 +3,7 @@
 ## I'm a student, who _wanna_ be a nice programmer.
 
 - ⌨ I write code in [VS Code][vscode];
-- 📚 Usually writing websites (HTML, CSS & _JS_), but there is a desire to practice Python;
+- 📚 Usually writing websites (HTML, CSS & _JS), but there is a desire to practice Python;
 - 💻 Work on a [LATTE PANDA][currentpc] _(saving up for a laptop)_;
 - ⚡ Some interesting facts about me:
   - 🥪 I love to [cook][laugh];
