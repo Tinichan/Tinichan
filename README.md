@@ -4,7 +4,7 @@
 
 - ⌨ I write code in [VS Code][vscode];
 - 📚 Usually writing websites (HTML & CSS), but there is a desire to practice Python;
-- 💻 Work on a [LATTE PANDA][currentpc] _(saving up for a laptop)_;
+- 💻 Work on a [Lenovo IdeaPad L340 (15”) Gaming Laptop][currentpc] _(Yes, I saved up for it :3)_ and on [LATTE PANDA][panda];
 - ⚡ Some interesting facts about me:
   - 🥪 I love to [cook][laugh];
   - 🎧 I mostly listen Retrowave and something from Cyberpunk;
@@ -82,7 +82,8 @@
 [bruh]: https://www.youtube.com/watch?v=dQw4w9WgXcQ
 [mygithub]: https://github.com/Tinichan
 [vscode]: https://code.visualstudio.com/
-[currentpc]: http://www.lattepanda.com/products/3.html
+[currentpc]: https://www.lenovo.com/us/en/laptops/ideapad/ideapad-gaming-laptops/IdeaPad-L340-15IRH-Gaming/p/88IPL301161
+[panda]: http://www.lattepanda.com/products/3.html
 [game]: https://www.warframe.com/
 [с_project]: https://github.com/Tinichan/University-course-project-2020
 [my_site]: https://github.com/Tinichan/My-site
