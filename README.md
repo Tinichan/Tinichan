@@ -31,12 +31,8 @@
 
 ### 🧰 Frameworks & tools:
 
-<!--
-[<img align="left" alt="MySQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"/>](https://github.com/topics/mysql)
--->
 [<img align="left" alt="Bootstrap" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" style=""/>](https://github.com/topics/bootstrap)
 [<img align="left" alt="WordPress" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"/>](https://github.com/topics/wordpress)
-[<img align="left" alt="Material design" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/material-design/material-design.png"/>](https://github.com/topics/material-design)
 [<img align="left" alt="Sass" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"/>](https://github.com/topics/sass)
 <!--
 [<img align="left" alt="Ajax" width="50px" src=""/>](https://github.com/topics/ajax)
@@ -52,6 +48,7 @@
 <!--
 [<img align="left" alt="Raspberry Pi" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png"/>](https://github.com/topics/raspberry-pi)
 -->
+[<img align="left" alt="Material design" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/material-design/material-design.png"/>](https://github.com/topics/material-design)
 
 <br>
 <br>
