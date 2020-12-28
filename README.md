@@ -57,7 +57,8 @@
 
 ## 🎯 2020 Goals:
 
-- [x] <del>Protect [course project][с_project];</del> **Defended at 95/100**
+- [x] <del>Protect [course project][fir_сour_project];</del> **Defended at 95/100**
+- [ ] <del>Protect [second course project][sec_сour_project];</del> **Defended at 97/100**
 - [ ] Write my own website _([in process][my_site])_;
 - [ ] To improve skills in HTML, CSS and Python;
 - [ ] Learn JavaScript, PHP and some kind of framework (Angular / Django / Flask / jQuery / React / Vue.js);
@@ -82,7 +83,8 @@
 [currentpc]: https://www.lenovo.com/us/en/laptops/ideapad/ideapad-gaming-laptops/IdeaPad-L340-15IRH-Gaming/p/88IPL301161
 [panda]: http://www.lattepanda.com/products/3.html
 [game]: https://www.warframe.com/
-[с_project]: https://github.com/Tinichan/University-course-project-2020
+[fir_сour_project]: https://github.com/Tinichan/University-course-project-2020
+[sec_сour_project]: http://curseproject2020.000webhostapp.com
 [my_site]: https://github.com/Tinichan/My-site
 [spotify]: https://open.spotify.com/user/2z68o3ril7kxltzxje509snjb?si=-DESlo4WTkufb0wz6XprtQ
 
