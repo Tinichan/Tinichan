@@ -58,7 +58,7 @@
 ## 🎯 2020 Goals:
 
 - [x] <del>Protect [course project][fir_сour_project];</del> **Defended at 95/100**
-- [ ] <del>Protect [second course project][sec_сour_project];</del> **Defended at 97/100**
+- [x] <del>Protect [second course project][sec_сour_project];</del> **Defended at 97/100**
 - [ ] Write my own website _([in process][my_site])_;
 - [ ] To improve skills in HTML, CSS and Python;
 - [ ] Learn JavaScript, PHP and some kind of framework (Angular / Django / Flask / jQuery / React / Vue.js);
