@@ -7,7 +7,7 @@
 - 💻 Work on a [Lenovo IdeaPad L340 (15”) Gaming Laptop][currentpc] _(Yes, I saved up for it :3)_ and on [LATTE PANDA][panda];
 - ⚡ Some interesting facts about me:
   - 🥪 I love to [cook][laugh];
-  - 🎧 I mostly listen Retrowave and something from Cyberpunk;
+  - 🎧 I mostly listen Retrowave and OST from games;
   - 🎮 I'm playing a little (usually play in [Warframe][game] (\_BOSSKO_99);
   - [Bruh][bruh].
 
@@ -55,13 +55,12 @@
 <br>
 <hr>
 
-## 🎯 2020 Goals:
+## 🎯 2021 Goals:
 
-- [x] <del>Protect [course project][fir_сour_project];</del> **Defended at 95/100**
-- [x] <del>Protect [second course project][sec_сour_project];</del> **Defended at 97/100**
 - [ ] Write my own website _([in process][my_site])_;
 - [ ] To improve skills in HTML, CSS and Python;
-- [ ] Learn JavaScript, PHP and some kind of framework (Angular / Django / Flask / jQuery / React / Vue.js);
+- [ ] Learn JavaScript, PHP and remember Arduino;
+- [ ] Learn kind of framework (Angular / Django / Flask / jQuery / React / Vue.js);
 
 <hr>
 
@@ -83,8 +82,6 @@
 [currentpc]: https://www.lenovo.com/us/en/laptops/ideapad/ideapad-gaming-laptops/IdeaPad-L340-15IRH-Gaming/p/88IPL301161
 [panda]: http://www.lattepanda.com/products/3.html
 [game]: https://www.warframe.com/
-[fir_сour_project]: https://github.com/Tinichan/University-course-project-2020
-[sec_сour_project]: http://curseproject2020.000webhostapp.com
 [my_site]: https://github.com/Tinichan/My-site
 [spotify]: https://open.spotify.com/user/2z68o3ril7kxltzxje509snjb?si=-DESlo4WTkufb0wz6XprtQ
 
