@@ -8,7 +8,7 @@
 - ⚡ Some interesting facts about me:
   - 🥪 I love to [cook][laugh];
   - 🎧 I mostly listen Retrowave and OST from games;
-  - 🎮 I'm playing a little (usually play in [Warframe][game] (\_BOSSKO_99);
+  - 🎮 I'm playing a little;
   - [Bruh][bruh].
 
 ### 📚 Languages:
@@ -57,7 +57,7 @@
 
 ## 🎯 2021 Goals:
 
-- [ ] Write my own website _([in process][my_site])_;
+- [x] <del>Write my own landing-site _([in process][my_site])_;</del> **Let it be for now... ¯\_(ツ)_/¯**
 - [ ] To improve skills in HTML, CSS and Python;
 - [ ] Learn JavaScript, PHP and remember Arduino;
 - [ ] Learn kind of framework (Angular / Django / Flask / jQuery / React / Vue.js);
@@ -81,7 +81,6 @@
 [vscode]: https://code.visualstudio.com/
 [currentpc]: https://www.lenovo.com/us/en/laptops/ideapad/ideapad-gaming-laptops/IdeaPad-L340-15IRH-Gaming/p/88IPL301161
 [panda]: http://www.lattepanda.com/products/3.html
-[game]: https://www.warframe.com/
 [my_site]: https://github.com/Tinichan/My-site
 [spotify]: https://open.spotify.com/user/2z68o3ril7kxltzxje509snjb?si=-DESlo4WTkufb0wz6XprtQ
 
