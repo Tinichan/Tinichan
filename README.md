@@ -57,7 +57,7 @@
 
 ## 🎯 2021 Goals:
 
-- [x] <del>Write my own landing-site _([in process][my_site])_;</del> **Let it be for now... ¯\_(ツ)_/¯**
+- [x] <del>Write my own landing-site _([in process][my_site])_;</del> **Let it be for now... ¯\\_(ツ)_/¯**
 - [ ] To improve skills in HTML, CSS and Python;
 - [ ] Learn JavaScript, PHP and remember Arduino;
 - [ ] Learn kind of framework (Angular / Django / Flask / jQuery / React / Vue.js);
