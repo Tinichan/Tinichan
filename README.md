@@ -14,17 +14,14 @@
 ### 📚 Languages:
 <!--
 [<img align="left" alt="C++" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"/>](https://github.com/topics/cpp)
-[<img align="left" alt="SQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"/>](https://github.com/topics/sql)
+[<img align="left" alt="SQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"/>](https://github.com/topics/sql)-->
 [<img align="left" alt="Arduino" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"/>](https://github.com/topics/arduino)
--->
 [<img align="left" alt="HTML 5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>](https://github.com/topics/html)
 [<img align="left" alt="CSS 3" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>](https://github.com/topics/css)
 [<img align="left" alt="Sass" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"/>](https://github.com/topics/sass)
-[<img align="left" alt="Python" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>](https://github.com/topics/python)
-<!--
+<!-- [<img align="left" alt="Python" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>](https://github.com/topics/python) -->
 [<img align="left" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>](https://github.com/topics/javascript)
 [<img align="left" alt="PHP" width="50px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png"/>](https://github.com/topics/php)
--->
 [<img align="left" alt="Markdown" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png"/>](https://github.com/topics/markdown)
 
 <br>
@@ -34,6 +31,7 @@
 
 [<img align="left" alt="Bootstrap" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" style=""/>](https://github.com/topics/bootstrap)
 [<img align="left" alt="WordPress" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"/>](https://github.com/topics/wordpress)
+[<img align="left" alt="Laravel" width="50px" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png"/>](https://github.com/topics/laravel)
 <!--
 [<img align="left" alt="Ajax" width="50px" src=""/>](https://github.com/topics/ajax)
 [<img align="left" alt="jQuery" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"/>](https://github.com/topics/jquery)
@@ -58,9 +56,9 @@
 ## 🎯 2021 Goals:
 
 - [x] <del>Write my own landing-site _([in process][my_site])_;</del> **Let it be for now... ¯\\_(ツ)_/¯**
-- [ ] To improve skills in HTML, CSS and Python;
-- [ ] Learn JavaScript, PHP and remember Arduino;
-- [ ] Learn kind of framework (Angular / Django / Flask / jQuery / React / Vue.js);
+- [ ] To improve skills in HTML, CSS and Python; **F\*\*ck Python**
+- [x] <del>Learn JavaScript, PHP and remember Arduino;</del>
+- [x] <del>Learn kind of framework (Angular /</del><b>Laravel</b></del>/ Django / Flask / jQuery / React / Vue.js);</del> **The choice fell on Laravel**
 
 <hr>
 
