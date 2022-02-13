@@ -6,14 +6,13 @@
 - 📚 Usually writing websites, but there is a desire to practice Arduino & Python;
 - 💻 Work on a [Lenovo IdeaPad L340 (15”) Gaming Laptop][currentpc] and on [LATTE PANDA][panda];
 - ⚡ Some interesting facts about me:
-  - 🥪 I love to [cook][bruh];
+  - 🥪 I like to [cook][bruh];
   - 🎧 I mostly listen Retrowave/Dark Synthwave, LoFi hip-hop and OST from games;
   - 🎮 I'm playing a little;
 
 ### 📚 Languages:
 
 [//]: # ([<img align="left" alt="C++" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"/>]&#40;https://github.com/topics/cpp&#41;)
-[<img align="left" alt="SQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"/>](https://github.com/topics/sql)
 
 [//]: # ([<img align="left" alt="Arduino" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"/>]&#40;https://github.com/topics/arduino&#41;)
 [<img align="left" alt="HTML 5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>](https://github.com/topics/html)
@@ -24,6 +23,7 @@
 [//]: # ([<img align="left" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>]&#40;https://github.com/topics/javascript&#41;)
 
 [<img align="left" alt="PHP" width="50px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png"/>](https://github.com/topics/php)
+[<img align="left" alt="SQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"/>](https://github.com/topics/sql)
 [<img align="left" alt="Markdown" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png"/>](https://github.com/topics/markdown)
 
 <br>
@@ -33,10 +33,9 @@
 ### 🧰 Frameworks & tools:
 
 [<img align="left" alt="Bootstrap" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" style=""/>](https://github.com/topics/bootstrap)
-
-[//]: # ([<img align="left" alt="WordPress" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"/>]&#40;https://github.com/topics/wordpress&#41;)
 [<img align="left" alt="Laravel" width="50px" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png"/>](https://github.com/topics/laravel)
 
+[//]: # ([<img align="left" alt="WordPress" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"/>]&#40;https://github.com/topics/wordpress&#41;)
 [//]: # ([<img align="left" alt="Ajax" width="50px" src=""/>]&#40;https://github.com/topics/ajax&#41;)
 [//]: # ([<img align="left" alt="jQuery" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"/>]&#40;https://github.com/topics/jquery&#41;)
 
