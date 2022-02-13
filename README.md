@@ -1,28 +1,28 @@
 ### Hi there, I'm Tim ([Tinichan][mygithub]) Gonch. 👋
 
-## I'm a student, who _wanna_ be a nice programmer.
+## I'm a student, who _wanna_ be a nice web programmer.
 
-- ⌨ I write code in [VS Code][vscode];
-- 📚 Usually writing websites (HTML & CSS), but there is a desire to practice Python;
-- 💻 Work on a [Lenovo IdeaPad L340 (15”) Gaming Laptop][currentpc] _(Yes, I saved up for it :3)_ and on [LATTE PANDA][panda];
+- ⌨ I write code in VS Code and PHPStorm;
+- 📚 Usually writing websites, but there is a desire to practice Arduino & Python;
+- 💻 Work on a [Lenovo IdeaPad L340 (15”) Gaming Laptop][currentpc] and on [LATTE PANDA][panda];
 - ⚡ Some interesting facts about me:
-  - 🥪 I love to [cook][laugh];
-  - 🎧 I mostly listen Retrowave and OST from games;
+  - 🥪 I love to [cook][bruh];
+  - 🎧 I mostly listen Retrowave/Dark Synthwave, LoFi hip-hop and OST from games;
   - 🎮 I'm playing a little;
-  - [Bruh][bruh].
 
 ### 📚 Languages:
-<!--
-[<img align="left" alt="C++" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"/>](https://github.com/topics/cpp)
+
+[//]: # ([<img align="left" alt="C++" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"/>]&#40;https://github.com/topics/cpp&#41;)
 [<img align="left" alt="SQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"/>](https://github.com/topics/sql)
--->
-[<img align="left" alt="Arduino" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"/>](https://github.com/topics/arduino)
+
+[//]: # ([<img align="left" alt="Arduino" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"/>]&#40;https://github.com/topics/arduino&#41;)
 [<img align="left" alt="HTML 5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>](https://github.com/topics/html)
 [<img align="left" alt="CSS 3" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>](https://github.com/topics/css)
 [<img align="left" alt="Sass" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"/>](https://github.com/topics/sass)
-<!-- [<img align="left" alt="Python" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>](https://github.com/topics/python)
-[<img align="left" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>](https://github.com/topics/javascript)
--->
+
+[//]: # ([<img align="left" alt="Python" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>]&#40;https://github.com/topics/python&#41;)
+[//]: # ([<img align="left" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>]&#40;https://github.com/topics/javascript&#41;)
+
 [<img align="left" alt="PHP" width="50px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png"/>](https://github.com/topics/php)
 [<img align="left" alt="Markdown" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png"/>](https://github.com/topics/markdown)
 
@@ -33,12 +33,12 @@
 ### 🧰 Frameworks & tools:
 
 [<img align="left" alt="Bootstrap" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" style=""/>](https://github.com/topics/bootstrap)
-[<img align="left" alt="WordPress" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"/>](https://github.com/topics/wordpress)
+
+[//]: # ([<img align="left" alt="WordPress" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"/>]&#40;https://github.com/topics/wordpress&#41;)
 [<img align="left" alt="Laravel" width="50px" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png"/>](https://github.com/topics/laravel)
-<!--
-[<img align="left" alt="Ajax" width="50px" src=""/>](https://github.com/topics/ajax)
-[<img align="left" alt="jQuery" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"/>](https://github.com/topics/jquery)
--->
+
+[//]: # ([<img align="left" alt="Ajax" width="50px" src=""/>]&#40;https://github.com/topics/ajax&#41;)
+[//]: # ([<img align="left" alt="jQuery" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"/>]&#40;https://github.com/topics/jquery&#41;)
 
 <br>
 <br>
@@ -47,9 +47,9 @@
 ### 💾 IDE, soft & other:
 
 [<img align="left" alt="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>](https://code.visualstudio.com/)
-<!--
-[<img align="left" alt="Raspberry Pi" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png"/>](https://github.com/topics/raspberry-pi)
--->
+
+[//]: # ([<img align="left" alt="Raspberry Pi" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png"/>]&#40;https://github.com/topics/raspberry-pi&#41;)
+
 [<img align="left" alt="Material design" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/material-design/material-design.png"/>](https://github.com/topics/material-design)
 
 <br>
@@ -57,12 +57,12 @@
 <br>
 <hr>
 
-## 🎯 2021 Goals:
+## 🎯 2022 Goals:
 
-- [x] <del>Write my own landing-site _([in process][my_site])_;</del> **Let it be for now... ¯\\_(ツ)_/¯**
-- [x] <del>To improve skills in HTML, CSS and Python;</del> **F\*\*ck Python**
-- [x] <del>Learn JavaScript, PHP and remember Arduino;</del>
-- [x] <del>Learn kind of framework (Angular /</del> <b>Laravel</b> <del>/ Django / Flask / jQuery / React / Vue.js);</del> **The choice fell on Laravel**
+- [ ] Redesign and rework my own landing-site;
+- [ ] Improve skills in HTML, CSS and Laravel;
+- [ ] Learn JavaScript, PHP and remember Arduino;
+- [ ] Learn and practice _[Livewire][livewire]_ and Telegram API (for bots);
 
 <hr>
 
@@ -70,6 +70,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tinichan)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Tinichan&show_icons=true)
+
+<hr>
 
 ### 🔗 Some links:
 
@@ -83,7 +85,11 @@
 [vscode]: https://code.visualstudio.com/
 [currentpc]: https://www.lenovo.com/us/en/laptops/ideapad/ideapad-gaming-laptops/IdeaPad-L340-15IRH-Gaming/p/88IPL301161
 [panda]: http://www.lattepanda.com/products/3.html
+
 [my_site]: https://github.com/Tinichan/My-site
+[//]: # (_&#40;[in process][my_site]&#41;_)
+
+[livewire]: https://laravel-livewire.com/
 [spotify]: https://open.spotify.com/user/2z68o3ril7kxltzxje509snjb?si=-DESlo4WTkufb0wz6XprtQ
 
 <!--/////////////////////////////////-->
