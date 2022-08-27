@@ -1,13 +1,13 @@
-### Hi there, I'm Tim ([Tinichan][mygithub]) Gonch. 👋
+### Hi there, I'm Tim ([Tinichan][my_site]) Gonch. 👋
 
 ## I'm a student, who _wanna_ be a nice web programmer.
 
 - ⌨ I write code in VS Code and PHPStorm;
 - 📚 Usually writing websites, but there is a desire to practice Arduino & Python;
-- 💻 Work on a [Lenovo IdeaPad L340 (15”) Gaming Laptop][currentpc] and on [LATTE PANDA][panda];
-- ⚡ Some interesting facts about me:
+- 💻 Work on a [Lenovo IdeaPad L340 (15”) Gaming Laptop][current_pc]<!-- and on [LATTE PANDA][panda]-->;
+- ⚡ Some facts about me:
   - 🥪 I like to [cook][bruh];
-  - 🎧 I mostly listen Retrowave/Dark Synthwave, LoFi hip-hop and OST from games;
+  - 🎧 I mostly listen Retrowave/Dark Synthwave, LoFi hip-hop and games OST;
   - 🎮 I'm playing a little;
 
 ### 📚 Languages:
@@ -59,7 +59,7 @@
 ## 🎯 2022 Goals:
 
 - [ ] Redesign and rework my own landing-site;
-- [ ] Improve skills in HTML, CSS and Laravel;
+- [ ] Improve skills in HTML, CSS, Laravel and API;
 - [ ] Learn JavaScript, PHP and remember Arduino;
 - [ ] Learn and practice _[Livewire][livewire]_ and Telegram API (for bots);
 
@@ -80,9 +80,8 @@
 
 [laugh]: https://youtu.be/wgzdb0txR_c?t=280
 [bruh]: https://www.youtube.com/watch?v=dQw4w9WgXcQ
-[mygithub]: https://github.com/Tinichan
 [vscode]: https://code.visualstudio.com/
-[currentpc]: https://www.lenovo.com/us/en/laptops/ideapad/ideapad-gaming-laptops/IdeaPad-L340-15IRH-Gaming/p/88IPL301161
+[current_pc]: https://www.lenovo.com/us/en/laptops/ideapad/ideapad-gaming-laptops/IdeaPad-L340-15IRH-Gaming/p/88IPL301161
 [panda]: http://www.lattepanda.com/products/3.html
 
 [my_site]: https://github.com/Tinichan/My-site
