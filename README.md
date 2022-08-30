@@ -1,4 +1,4 @@
-### Hi there, I'm Tim ([Tinichan][my_site]) Gonch. 👋
+### Hi there, I'm Tim (Tinichan) Gonch. 👋
 
 ## I'm a student, who _wanna_ be a nice web programmer.
 
