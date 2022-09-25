@@ -20,8 +20,7 @@
 [<img align="left" alt="Sass" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"/>](https://github.com/topics/sass)
 
 [//]: # ([<img align="left" alt="Python" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>]&#40;https://github.com/topics/python&#41;)
-[//]: # ([<img align="left" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>]&#40;https://github.com/topics/javascript&#41;)
-
+[<img align="left" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>](https://github.com/topics/javascript&#41;)
 [<img align="left" alt="PHP" width="50px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png"/>](https://github.com/topics/php)
 [<img align="left" alt="SQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"/>](https://github.com/topics/sql)
 [<img align="left" alt="Markdown" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png"/>](https://github.com/topics/markdown)
@@ -58,9 +57,9 @@
 
 ## 🎯 2022 Goals:
 
-- [ ] Redesign and rework my own landing-site;
-- [ ] Improve skills in HTML, CSS, Laravel and API;
-- [ ] Learn JavaScript, PHP and remember Arduino;
+<!-- - [ ] Redesign and rework my own landing-site; -->
+- [ ] Improve skills in HTML, CSS, JS, PHP and Laravel;
+- [ ] Learn Arduino;
 - [ ] Learn and practice _[Livewire][livewire]_ and Telegram API (for bots);
 
 <hr>
