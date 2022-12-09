@@ -55,14 +55,14 @@
 <br>
 <hr>
 
-## 🎯 2022 Goals:
+<!-- ## 🎯 2022 Goals: -->
 
 <!-- - [ ] Redesign and rework my own landing-site; -->
-- [ ] Improve skills in HTML, CSS, JS, PHP and Laravel;
-- [ ] Learn Arduino;
-- [ ] Learn and practice _[Livewire][livewire]_ and Telegram API (for bots);
+<!-- - [ ] Improve skills in HTML, CSS, JS, PHP and Laravel; -->
+<!-- - [ ] Learn Arduino; -->
+<!-- - [ ] Learn and practice _[Livewire][livewire]_ and Telegram API (for bots); -->
 
-<hr>
+<!-- <hr> -->
 
 ## 📊 Some statistics:
 
