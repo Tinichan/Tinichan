@@ -1,4 +1,4 @@
-![image](https://github.com/Tinichan/Tinichan/assets/60572282/120204ab-7b70-44ac-bec1-1aead67616fb)### Hi there, I'm Tim (Tinichan) Gonch. 👋
+### Hi there, I'm Tim (Tinichan) Gonch. 👋
 
 ## I'm a _nice_ web programmer.
 
