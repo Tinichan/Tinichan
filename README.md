@@ -33,7 +33,7 @@
 
 [<img align="left" alt="Bootstrap" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" style=""/>](https://github.com/topics/bootstrap)
 [<img align="left" alt="Laravel" width="50px" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png"/>](https://github.com/topics/laravel)
-[<img align="left" alt="Livewire" width="50px" src="https://avatars.githubusercontent.com/u/51960834?s=200&v=4"/>]([https://github.com/topics/laravel](https://github.com/livewire))
+[<img align="left" alt="Livewire" width="50px" src="https://avatars.githubusercontent.com/u/51960834?s=200&v=4"/>](https://github.com/livewire)
 
 <br>
 <br>
