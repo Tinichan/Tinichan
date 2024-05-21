@@ -1,6 +1,6 @@
 ### Hi there, I'm Tim (Tinichan) Gonch. 👋
 
-## I'm a student, who _wanna_ be a nice web programmer.
+## I'm a _nice_ web programmer.
 
 - ⌨ I write code in VS Code and PHPStorm;
 - 📚 Usually writing websites, but there is a desire to practice Arduino & Python;
@@ -55,11 +55,10 @@
 <br>
 <hr>
 
-<!-- ## 🎯 2022 Goals: -->
+## 🎯 2024 Goals:
 
-<!-- - [ ] Redesign and rework my own landing-site; -->
-<!-- - [ ] Improve skills in HTML, CSS, JS, PHP and Laravel; -->
-<!-- - [ ] Learn Arduino; -->
+ - [x] Redesign and rework my own site;
+ - [ ] Improve skills in Web tech and Linux;
 <!-- - [ ] Learn and practice _[Livewire][livewire]_ and Telegram API (for bots); -->
 
 <!-- <hr> -->
@@ -83,7 +82,7 @@
 [current_pc]: https://www.lenovo.com/us/en/laptops/ideapad/ideapad-gaming-laptops/IdeaPad-L340-15IRH-Gaming/p/88IPL301161
 [panda]: http://www.lattepanda.com/products/3.html
 
-[my_site]: https://github.com/Tinichan/My-site
+[my_site]: https://tinichan.github.io/website/
 [//]: # (_&#40;[in process][my_site]&#41;_)
 
 [livewire]: https://laravel-livewire.com/
