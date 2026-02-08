@@ -58,14 +58,14 @@
  - [ ] Improve skills in Web tech and Linux;
  - [ ] Learn and practice _[Livewire][livewire]_ and Telegram API (for bots);
 
-<hr>  -->
+<hr>  
 
 ## 📊 Some statistics:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tinichan)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Tinichan&show_icons=true)
 
-<hr>
+<hr> -->
 
 ### 🔗 Some links:
 
