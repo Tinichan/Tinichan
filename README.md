@@ -2,7 +2,7 @@
 
 ## I'm a _nice_ web programmer.
 
-- ⌨ I write code in VS Code and PHPStorm;
+- ✍️ I write code in VS Code and PHPStorm;
 - 📚 Usually writing websites, but there is a desire to practice Arduino & Python;
 - 💻 Work on a [Lenovo IdeaPad L340 (15”) Gaming Laptop][current_pc]<!-- and on [LATTE PANDA][panda]-->;
 - ⚡ Some facts about me:
