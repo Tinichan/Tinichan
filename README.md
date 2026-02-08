@@ -52,13 +52,13 @@
 <br>
 <hr>
 
-## 🎯 2024 Goals:
+<!-- - ## 🎯 2026 Goals:
 
  - [x] Redesign and rework my own site;
  - [ ] Improve skills in Web tech and Linux;
-<!-- - [ ] Learn and practice _[Livewire][livewire]_ and Telegram API (for bots); -->
+ - [ ] Learn and practice _[Livewire][livewire]_ and Telegram API (for bots);
 
-<hr>
+<hr>  -->
 
 ## 📊 Some statistics:
 
